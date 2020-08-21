@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.87b00b101102554420403cabd0d11ff7.js"
+  "/precache-manifest.dd00106d31946ec67b56eb42fe9e836d.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "JCent-finance"});
